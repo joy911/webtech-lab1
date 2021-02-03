@@ -1,0 +1,86 @@
+*{
+	padding: 0;
+	margin=0;
+	
+}
+
+
+body
+{
+
+
+background-image: url(pexels-brand-&-palms-768943.jpg) ;
+background-size: cover;
+background-position: center;
+height: 100vh;
+display: flex;
+flex-direction: column;
+
+
+
+font-size: 25px;
+color: #1a662e;
+font-position: center;
+
+
+ 
+}
+
+.menu-bar
+{
+
+
+
+padding: 20px
+ width: 800px
+
+
+}
+
+.menu-bar ul
+{
+
+margin-left: 350px
+
+}
+
+.menu-bar ul li
+{
+
+ float: left;
+ background-color: green;
+ color: black;
+text-align: center;
+border: inset;
+	width: 100px;
+
+	margin:20px;
+	padding: auto;
+list-style: none;
+
+
+
+}
+
+.showcase{
+text-align: center;
+margin-top: 200px;
+
+
+}
+
+.social{
+
+margin-left:50px;
+margin-top:150px;
+
+font-size: 50px;
+
+
+background-color:transparent;
+
+
+
+
+
+}
